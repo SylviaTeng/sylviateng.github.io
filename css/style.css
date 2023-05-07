@@ -165,8 +165,12 @@ figure {
   margin: 0 0 1rem; }
 
 img {
-  vertical-align: middle;
-  border-style: none; }
+    vertical-align: middle;
+    border-style: none;
+    height: 18rem;
+    object-fit: cover;
+    object-position: top;
+}
 
 svg {
   overflow: hidden;
